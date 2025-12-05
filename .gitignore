@@ -11,6 +11,9 @@ android/local.properties
 ios/Pods/
 ios/build/
 
+# firebase
+app/firebase.ts
+
 # Bundler
 *.iml
 
