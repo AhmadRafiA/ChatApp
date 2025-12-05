@@ -12,7 +12,7 @@ ios/Pods/
 ios/build/
 
 # firebase
-app/firebase.ts
+/app/firebase.ts
 
 # Bundler
 *.iml
